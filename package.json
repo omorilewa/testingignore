@@ -1,0 +1,30 @@
+{
+  "name": "gitmastery",
+  "version": "1.0.0",
+  "description": "mastering git",
+  "main": "app/soln_ass1.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "mocha tests/tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omorilewa/mastergit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omorilewa/mastergit/issues"
+  },
+  "homepage": "https://github.com/omorilewa/mastergit#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "mocha": "^3.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0"
+  }
+}
